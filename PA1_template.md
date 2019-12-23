@@ -10,13 +10,6 @@ output:
 ```r
 # libs
 library(data.table)
-```
-
-```
-## data.table 1.12.6 using 4 threads (see ?getDTthreads).  Latest news: r-datatable.com
-```
-
-```r
 library(ggplot2) 
 
 # extract, read and overview
